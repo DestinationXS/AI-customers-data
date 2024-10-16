@@ -1,0 +1,301 @@
+Name,Customer Code,Gender,City,Age,Type of Subscription
+Bruce West,71241a5b,Female,New York,36,Gold
+Jamie Miller,032f9436,Female,Houston,27,Gold
+Jonathan Turner,b4a601a7,Female,Los Angeles,62,Free
+David Norris,4c6f40f7,Male,Philadelphia,19,Gold
+Alicia Goodwin,c4173410,Male,Philadelphia,53,Free
+Heather Brooks,564b829f,Female,Phoenix,49,Gold
+April Smith MD,0f9810dc,Male,Chicago,58,Gold
+Jennifer Duncan,8aa8cfcf,Female,Phoenix,40,Free
+Jennifer Lee,95f118d6,Male,New York,66,Gold
+Debbie Montoya,30915bc1,Female,Philadelphia,50,Free
+Sara Robinson,15dd0233,Male,Philadelphia,44,Gold
+Kevin Newman,f5ae97b0,Male,Phoenix,35,Gold
+Matthew Ross,a9d537e1,Male,Houston,39,Free
+Jennifer Reyes,3fdc9ccf,Male,Philadelphia,58,Free
+Jessica Cooper,accfb2b9,Male,Philadelphia,31,Gold
+Rachel Faulkner,f5327536,Female,New York,20,Gold
+Brandi Thompson,54d6b54f,Male,Los Angeles,67,Free
+Brandon Gibson,4e8bdd84,Male,San Antonio,47,Free
+Rebecca Keller,ed27c62c,Female,Los Angeles,27,Free
+Charles Richardson,b8a0ec45,Male,Los Angeles,40,Free
+Ruben Dunn,3b5f4193,Male,Houston,51,Free
+David Brown,9cff160d,Female,Houston,40,Gold
+Kimberly Phillips,22828h09,Female,Los Angeles,60,Free
+Jordan Harvey,1c35490a,Female,San Antonio,24,Free
+Kari Ray,c68705fd,Male,San Antonio,45,Free
+Juan Williams,4a89fccd,Female,Phoenix,32,Gold
+Wendy Henson,9964c655,Male,New York,45,Gold
+Sherri Osborn,5d4ed6a0,Male,Houston,63,Gold
+Tracy Wilson,71ff00d4,Male,Chicago,59,Free
+Brian Brown,a6c28509,Female,San Antonio,37,Gold
+Dr. Dawn Baker,dd472d7f,Female,Houston,65,Free
+Nathaniel Lee,9c72282a,Female,Houston,61,Free
+Harold Lopez,592d4201,Female,New York,21,Free
+Travis Taylor,c03b629a,Male,San Antonio,63,Gold
+Rhonda Yates,ea7213fe,Male,Los Angeles,54,Free
+Ray Wilkinson,fe6aef90,Female,Los Angeles,18,Free
+Veronica Riley,79fae347,Male,Houston,22,Gold
+Shirley Gutierrez,4822abbf,Female,New York,58,Free
+Jessica Mathews,56a150ff,Male,Phoenix,21,Free
+Barbara Gonzalez,ff9bae2e,Male,Chicago,66,Gold
+Anthony Briggs,ee265b2a,Female,Philadelphia,24,Gold
+William Soto,cd2b2e9a,Female,Chicago,34,Gold
+Crystal Brown,6cfd5c0e,Female,New York,53,Gold
+Erik Ross,59b6acc0,Male,Los Angeles,34,Free
+James Harris,62ac9530,Male,Chicago,19,Gold
+John Woodward,6aafdd6e,Female,Houston,22,Gold
+Patricia Smith,79ab3941,Male,New York,26,Free
+Richard Ortiz,0d672aa7,Male,Philadelphia,25,Gold
+Andrew Johnson,d5fb1b76,Male,Los Angeles,66,Gold
+Corey Rodriguez,e75f7457,Male,Philadelphia,51,Free
+Charles Blake,ab41eecd,Female,Chicago,32,Free
+Joseph Mitchell,ab92f339,Female,Los Angeles,46,Gold
+Debra Huffman,ad0e6fdf,Male,San Antonio,61,Free
+Bruce Padilla,140be8e7,Female,Phoenix,65,Free
+Arthur Barrett,3f458f84,Female,Chicago,45,Free
+Lauren Cole,e6b206d6,Male,Los Angeles,69,Gold
+Andrew Lewis,3ac69884,Female,Houston,25,Gold
+Marissa Fernandez,4461ae67,Male,Houston,51,Gold
+Tammy Vaughn,4943438e,Female,San Antonio,67,Free
+Caitlin Patterson,36cd5916,Female,New York,37,Free
+Monique Perez,8041a113,Female,Los Angeles,61,Free
+Amy Davis,2d7b8e0d,Female,San Antonio,22,Free
+Rose Padilla,2d986d8a,Male,Houston,46,Gold
+Jeffery Smith,f31f006e,Female,New York,27,Free
+Melissa Soto,0baae630,Female,Philadelphia,44,Free
+James Nielsen DDS,74cd5419,Female,Los Angeles,65,Gold
+Timothy Miller,202e0af3,Male,Los Angeles,69,Gold
+Michael Haynes,ac43c202,Female,New York,30,Free
+Aaron Riddle,8bb8833f,Female,Phoenix,52,Gold
+Samuel Colon,d9410b4c,Female,Chicago,58,Free
+Thomas Smith,34ac06f9,Male,Philadelphia,24,Free
+Daniel Tucker,bc8ec9ee,Female,Chicago,18,Gold
+Dylan Nelson,b69dae28,Male,San Antonio,18,Free
+Brandi Jackson,458155u,Female,Philadelphia,33,Gold
+Tiffany Martinez,59674ca7,Female,Philadelphia,23,Free
+Luis Carney,0f298087,Female,Chicago,45,Free
+Adam Shah,2c6155b2,Male,Los Angeles,27,Free
+Thomas Boyer,250a22a9,Male,Phoenix,30,Gold
+Chad Lane,3d4e885d,Male,Houston,33,Free
+Paula Norton,6cf2fa70,Male,Los Angeles,53,Gold
+Christopher Thompson,f8477369,Male,Los Angeles,60,Free
+Thomas Greene,3k53l443,Male,Phoenix,32,Gold
+James Hogan,57550edb,Male,Phoenix,63,Gold
+Rachel Schneider,f89f3b1b,Female,New York,44,Gold
+Mr. David Jones,00e6c353,Female,Philadelphia,41,Free
+Jeffrey Goodwin,feca7f2b,Female,Chicago,54,Gold
+Brandon Johnson,0d94a66c,Female,Houston,26,Free
+Lori Carr,fa942f9d,Female,Chicago,39,Free
+Charles Hays,f221bdfc,Female,New York,23,Gold
+James Miller,3d3f24fe,Female,Philadelphia,44,Free
+Juan Flores,0fb1aeab,Female,San Antonio,38,Gold
+Bobby Mccarty,09ec042c,Female,Phoenix,69,Free
+Richard Carter,794bd3b6,Female,Phoenix,47,Gold
+Julie Chavez,32838b39,Female,Chicago,51,Free
+Joseph Mcdonald,92e3cecf,Female,San Antonio,51,Gold
+Brittney Thompson,89de4d01,Female,Phoenix,56,Gold
+Tiffany Gibson,862d191e,Female,Chicago,35,Gold
+Luis Marquez,714cd5f7,Female,Phoenix,65,Free
+Kelly Long,e686f060,Female,Los Angeles,49,Gold
+Mark Gonzalez,14fb29c1,Female,San Antonio,46,Gold
+Julia Dunn,e2511ca7,Male,New York,40,Free
+Madison Webster,38df6860,Male,Phoenix,55,Gold
+Aaron Davis,3bb9891d,Male,Philadelphia,59,Free
+Andrea Martin,8ce0b100,Female,Philadelphia,70,Free
+Debra Young,cac1cfeb,Female,Houston,26,Gold
+Christy Wells,0d60f592,Female,San Antonio,46,Free
+Robin Zimmerman,b24fe03e,Male,New York,68,Gold
+Jonathon Serrano,4c07ade9,Female,Los Angeles,24,Gold
+Robert Stewart,2bf9f22d,Female,Houston,63,Free
+Robin Brown,43e8408e,Female,Philadelphia,57,Gold
+Daniel Rodriguez,24b1321f,Female,Chicago,38,Free
+Stephanie Elliott,da202f45,Female,Chicago,66,Free
+Rebecca Rodriguez,d79b8f34,Male,San Antonio,40,Free
+Riley French,6fc74107,Female,Phoenix,70,Gold
+Jeremiah Nelson,24874f45,Male,Phoenix,67,Free
+Christie Flores,c311e5f3,Female,Chicago,19,Gold
+Mark Terrell,38c9a525,Female,New York,56,Gold
+Angela Tucker,b0b66563,Female,Phoenix,31,Gold
+Crystal House,20ba7b16,Male,San Antonio,70,Free
+Laura Ferguson,07e70117,Female,Phoenix,46,Gold
+Keith Hamilton,a4b0a89a,Male,Los Angeles,40,Free
+Lisa Calderon,48eb9c58,Female,Chicago,69,Free
+Julie Davis,06c6802f,Female,Chicago,23,Gold
+Stephanie Guerrero,739fc7b3,Female,Phoenix,64,Free
+Kevin Smith,b5842e61,Female,San Antonio,70,Free
+Phillip Johnson,0dc1699f,Female,Phoenix,29,Free
+Tracy Duncan,1d2f3644,Male,Houston,62,Free
+Stephanie Mitchell,07a72a55,Female,Philadelphia,47,Free
+Karen Bell,a40b55d0,Male,Chicago,51,Free
+Emily Mills,ca23274a,Male,Chicago,36,Free
+Betty Hamilton,0d814dd9,Male,New York,41,Free
+Christopher Jefferson,d47f24c0,Male,Los Angeles,61,Gold
+Katherine Myers,7487e6d2,Male,New York,46,Free
+Debra Barber,0367e0e8,Female,Chicago,51,Free
+Amanda Hodge,b4152926,Male,Houston,45,Gold
+Anthony Bishop,657a9d4e,Male,Chicago,33,Free
+Matthew Austin III,29747ed9,Male,Phoenix,59,Free
+Andrew Crawford,59a8f6c1,Male,Phoenix,61,Gold
+Vanessa Torres,4fe87dfa,Female,San Antonio,68,Free
+Dr. Valerie Ayala,2905e80d,Female,New York,28,Gold
+Kimberly King,8a95abd8,Male,Phoenix,31,Free
+Julie Fritz,9861a221,Female,San Antonio,22,Gold
+Robert Pham,792e56f7,Female,New York,27,Gold
+Paul Hogan,f931afe9,Female,Los Angeles,63,Gold
+Ronald Bautista,a299b2cc,Male,Phoenix,33,Free
+Allison Larsen,bf5c11b1,Female,San Antonio,27,Free
+Judith Nichols,0d3e5e03,Male,Chicago,58,Free
+Colleen Rodriguez,73389836,Female,Chicago,49,Gold
+Katherine Allen,16732f54,Female,Phoenix,52,Free
+Robert Tran,55a76862,Female,Los Angeles,67,Gold
+Dawn Carpenter,5s995t98,Male,Phoenix,20,Free
+Amy Cook,95c0a65b,Female,San Antonio,62,Gold
+Karen Reyes,3749e60f,Female,Houston,32,Gold
+Kevin Dunlap,693c3879,Male,New York,44,Gold
+Sean Collier,f60bfde1,Male,Los Angeles,45,Free
+Cindy Flores,0c2aac6a,Male,New York,30,Gold
+Brian Johnson,c148998e,Male,Chicago,45,Gold
+Robert Mayer,5a25f7b7,Male,Chicago,35,Free
+Emma Faulkner,5d7160d7,Female,New York,40,Free
+Sabrina Moore,cbbbd4dd,Female,Philadelphia,67,Gold
+Joseph Montgomery,da1cb5f2,Male,San Antonio,19,Gold
+Dr. Jennifer Lopez,7b9c332f,Male,New York,45,Gold
+Paul Johnson,50c37e50,Male,Houston,39,Gold
+Kevin Jackson,9103de1f,Male,Phoenix,36,Free
+Jose Smith,4a87ed11,Female,New York,31,Free
+Albert Wood,c4b348be,Female,Phoenix,20,Gold
+Brandon White,fce1232d,Female,Chicago,25,Gold
+Ashley Palmer,1a0b835a,Male,Houston,58,Free
+Kristen Arnold,0c8e9c41,Male,New York,48,Gold
+Jacob Miller,ddb8192e,Male,Houston,59,Free
+Danny Clark,81334552,Male,San Antonio,36,Free
+Brian Curry,71b81aba,Female,Philadelphia,70,Free
+Lisa Hamilton,4f327dd1,Male,San Antonio,44,Gold
+Angelica Summers,41ed0042,Female,New York,29,Gold
+Autumn Garcia,78879966,Female,Philadelphia,20,Gold
+Kelly Kennedy,2e516072,Female,San Antonio,34,Gold
+Jonathan Anderson,d47528b1,Female,New York,48,Gold
+Jacob Greene,2a76ac90,Male,Phoenix,28,Gold
+Edward Lopez,41cd6bc8,Male,New York,70,Gold
+Mason Morgan,6a68d978,Male,Phoenix,45,Gold
+Erin Alvarez,ea5370fa,Female,Philadelphia,70,Gold
+Adrienne Sullivan,f785c8b1,Male,Chicago,51,Gold
+David Carpenter,2c12d5f3,Male,San Antonio,41,Free
+Jennifer Cortez,0c0714dd,Female,Philadelphia,70,Free
+Peter Harris,9d797f9e,Female,Phoenix,46,Gold
+Richard Garrett,6f6b7992,Female,Los Angeles,54,Gold
+Steven Mercer,242077d9,Female,Los Angeles,23,Free
+Madison Terry,94234042,Male,Phoenix,37,Free
+Anthony Cole,43263780,Female,Los Angeles,64,Free
+Jeremy Baker,a2e2b8c6,Female,Philadelphia,55,Free
+Mark Guzman,ff04501e,Male,New York,27,Gold
+Darlene Finley,6b76ddba,Male,San Antonio,41,Free
+Joann Brown,ae41af38,Male,San Antonio,29,Gold
+Lori Ortega,d810cf2a,Male,San Antonio,26,Free
+Carrie Jones,ac5dbe7a,Male,Chicago,38,Gold
+Christina Murray,ce2d5ff3,Male,Los Angeles,40,Free
+Shawna Wood,144508f2,Female,Philadelphia,52,Free
+Mary Terry,b5507b44,Male,Philadelphia,49,Gold
+Nancy Church,3234e22d,Male,Chicago,27,Free
+April Melendez,569f8f0d,Female,Chicago,68,Free
+Christopher Solis,fbcbceff,Male,Phoenix,41,Free
+Robin Guzman,2762c6f0,Male,Chicago,37,Free
+David Williams,c2dc1272,Male,Chicago,66,Gold
+Stephanie Collins,2dfbb79e,Female,Philadelphia,52,Gold
+Alicia Gomez DVM,7c1049b0,Male,Houston,30,Gold
+Arthur Thornton,1b65ca6b,Female,Chicago,21,Free
+Zachary Mathews,13baa05e,Female,New York,68,Gold
+Whitney Hill,7184118e,Male,Chicago,62,Free
+Lawrence Miller,8df1419f,Male,Los Angeles,33,Gold
+Kayla Scott,e382ad9c,Female,Phoenix,67,Gold
+Richard Gonzalez,8b8404e9,Female,Los Angeles,51,Free
+James Jennings,657bb0d0,Female,San Antonio,28,Gold
+Scott Lamb,ef3bc8ff,Male,Chicago,38,Gold
+Alan Shaw,a56e6c0b,Male,Phoenix,43,Free
+Michael Fox,665cba17,Male,Philadelphia,37,Gold
+Haley Smith,2dfe5da0,Female,New York,62,Gold
+Danielle Reid,108b6901,Female,San Antonio,63,Gold
+Timothy Hubbard,7089c8de,Female,Philadelphia,25,Gold
+Shannon Wilson,9be259c3,Male,Phoenix,47,Gold
+Samuel Villarreal,01908dd8,Female,New York,51,Gold
+Gary Oconnor,01d42aa7,Male,Philadelphia,41,Free
+Dawn Walton,ca52c144,Female,Philadelphia,34,Gold
+Sherry Peterson,b32b2c47,Male,San Antonio,55,Free
+Sherry Miller,0d127d4a,Male,Chicago,29,Gold
+Rachel Kennedy,2a4c7628,Female,Houston,47,Free
+Colleen Bolton,8f10a3c7,Male,Chicago,43,Gold
+Brian Wallace,f2f67d34,Male,Chicago,55,Gold
+Sherry Watson,946dafca,Female,Philadelphia,32,Free
+Megan Mitchell,a3cb5922,Female,Chicago,45,Free
+Michael Kennedy,b19e5593,Male,Chicago,23,Gold
+Elizabeth Webster,e3b14cc5,Female,Houston,68,Gold
+Michael Meyer,d60595b1,Female,Philadelphia,46,Gold
+Theresa Gonzalez,b9d34376,Female,Houston,44,Gold
+William Wilson,b95fc0bb,Male,New York,29,Gold
+Brent Neal,094e0368,Female,San Antonio,66,Free
+Henry Ward,cc2715a0,Female,Phoenix,67,Gold
+Christopher Wright,da62b7c9,Male,New York,52,Gold
+Emily Brandt,b40ec72d,Male,Phoenix,30,Free
+Jeremy Myers,b961fc70,Male,Phoenix,32,Gold
+Cheryl Robinson,3453b6cf,Male,Chicago,38,Gold
+Charles Nelson,809a80c0,Male,Los Angeles,57,Gold
+Alex Williams,7ed67b24,Male,Phoenix,23,Gold
+Tina Fernandez,5689a05f,Female,San Antonio,57,Free
+Valerie Grant,5b0b76cf,Female,New York,64,Free
+Karen Miller,79d5adee,Female,New York,52,Free
+Thomas Thomas,ca113e93,Male,Los Angeles,36,Gold
+Wendy Griffin,d396a4d7,Female,New York,50,Free
+Stephanie Phillips,d808b813,Female,Houston,30,Free
+Shawn Lee,2164161a,Male,Houston,51,Gold
+Diana Butler,5b42de98,Male,Philadelphia,55,Gold
+Robert Jones,6f404582,Female,Phoenix,40,Free
+Charles Moore,71b2c685,Female,Houston,68,Free
+Anthony Barker,5d40d70a,Female,San Antonio,32,Free
+Joshua Galloway Jr.,158f5be3,Male,San Antonio,19,Gold
+Benjamin Rogers,60a90f52,Male,New York,24,Gold
+James Schneider,64f67aa3,Male,New York,65,Gold
+Alicia Frye,af152c21,Male,Chicago,33,Free
+Sarah Reyes,3f3b4943,Male,Phoenix,67,Gold
+Douglas Wilson,5691f4b5,Female,San Antonio,20,Gold
+Zachary Martinez,30665745,Male,Philadelphia,20,Free
+Megan Lopez,a8b64bbb,Male,Houston,67,Free
+Ebony Sanchez,7696935f,Male,Houston,25,Free
+Joshua Baker,4ff4d1cf,Male,New York,20,Gold
+Stacie Cordova,0d838ab3,Female,Chicago,33,Gold
+Holly Perry,07bd39d9,Male,Philadelphia,33,Free
+Amanda Silva,e0948206,Female,San Antonio,46,Free
+Ebony Hayes,879eff46,Female,Chicago,68,Gold
+Wyatt Huynh,78653729,Female,San Antonio,39,Free
+Angela Gonzalez,0d05bcc5,Male,San Antonio,64,Gold
+Megan Sosa,00cec4f7,Male,New York,66,Gold
+James Turner,a5d91a4b,Female,Los Angeles,68,Free
+Cheryl Brown,34ecfa25,Male,Phoenix,41,Free
+James Adams,9edd9c95,Male,New York,30,Gold
+Kathy Brown,9b92b78b,Male,Chicago,62,Free
+Drew Smith,49939635,Male,Phoenix,36,Gold
+Nicholas Walton,cf35e274,Female,San Antonio,52,Gold
+Kiara Ramirez,a3174d7c,Female,San Antonio,42,Gold
+Elizabeth Williams,88a43fc7,Female,Houston,41,Free
+Sara Warren,11df893d,Male,Philadelphia,39,Free
+Timothy Robinson,a6184810,Male,Philadelphia,49,Gold
+Susan Wolf,e3291094,Male,Chicago,46,Free
+Cynthia Kennedy,1a4ac051,Male,Chicago,35,Free
+Brandon Gordon,f3f890d7,Male,San Antonio,41,Free
+Erin Barrett,02eea732,Female,Philadelphia,25,Free
+Andrea Lopez,8dcfdaa2,Female,Chicago,59,Free
+Maria Brown,178f7dd5,Male,New York,41,Gold
+Christopher Gutierrez,cb762126,Male,Houston,36,Free
+Jennifer Garcia,ebeb728a,Female,Phoenix,43,Free
+Lisa Solis,2e1add42,Male,San Antonio,58,Free
+Brian Rivera,7868529f,Female,Chicago,67,Gold
+Aaron Barrett,6c2cce96,Male,Los Angeles,61,Gold
+Jordan Cruz,a5e66050,Male,Houston,28,Free
+Brittany Lee,67e1d80b,Male,Philadelphia,31,Gold
+Clarence Simpson,8cf59e5b,Male,Chicago,31,Gold
+Scott Gilmore,2635991,Male,Phoenix,36,Gold
+Curtis Berg,9844ee07,Male,San Antonio,52,Free
+David Nunez,38c15c14,Female,Houston,49,Free
+Lacey Hall,b95485cf,Male,Phoenix,44,Free
+Lynn Sanchez,bf200f6c,Male,Houston,21,Gold
+Caitlin Graham,3473f7a9,Male,Philadelphia,19,Free
